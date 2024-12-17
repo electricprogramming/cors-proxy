@@ -15,6 +15,7 @@
   "engines": {
     "node": "16.x"
   },
-  "author": "",
-  "license": "Unlicense"
+  "author": "electricprogramming",
+  "license": "Unlicense",
+  "type": "module"
 }
